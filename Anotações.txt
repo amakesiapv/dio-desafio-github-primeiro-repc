@@ -1,2 +1,3 @@
 Acompanhamento de estudos
-*16.05- git commit
+*16.05- primeiro git commit
+
